@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import windicss from '@vite-plugin-windicss'
+import windicss from 'vite-plugin-windicss'
 
 
 // https://vite.dev/config/
